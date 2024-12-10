@@ -4,5 +4,4 @@ setup(
    name="simple-evals",
    version="1.0",
    author="OpenAI",
-   packages=["simple-evals"],
 )
